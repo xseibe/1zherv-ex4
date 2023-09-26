@@ -1012,7 +1012,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "32478bae81dd426c8b6edbb4aac45317",
     "m_Id": 0,
-    "m_DisplayName": "Gradient Scale1",
+    "m_DisplayName": "Gradient Scale",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1188,10 +1188,10 @@
     "m_Guid": {
         "m_GuidSerialized": "9b9a87b8-80b4-4e9e-bafb-bbe56e5926d5"
     },
-    "m_Name": "Gradient Scale1",
+    "m_Name": "Gradient Scale",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Gradient Scale1",
-    "m_DefaultReferenceName": "_Gradient_Scale1",
+    "m_RefNameGeneratedByDisplayName": "Gradient Scale",
+    "m_DefaultReferenceName": "_Gradient_Scale",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
