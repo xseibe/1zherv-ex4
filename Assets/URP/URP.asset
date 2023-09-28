@@ -20,7 +20,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ac40a29f5ac364840a23b8bb01157220, type: 2}
   m_DefaultRendererIndex: 0
   m_RequireDepthTexture: 0
-  m_RequireOpaqueTexture: 0
+  m_RequireOpaqueTexture: 1
   m_OpaqueDownsampling: 1
   m_SupportsTerrainHoles: 1
   m_SupportsHDR: 1
