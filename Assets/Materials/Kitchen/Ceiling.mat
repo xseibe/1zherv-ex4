@@ -126,20 +126,20 @@ Material:
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
-    - _FPS: 15
+    - _FPS: 16
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
     - _IOR: 2
-    - _Mask_Speed: 3.13
+    - _Mask_Speed: 5
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Raindrops_Strength: 0.231
-    - _Raindrops_Tiling: 5.19
+    - _Raindrops_Strength: 0.242
+    - _Raindrops_Tiling: 6.2
     - _ReceiveShadows: 1
     - _Smoothness: 0.449
     - _SmoothnessTextureChannel: 0

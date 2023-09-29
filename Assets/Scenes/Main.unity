@@ -588,6 +588,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 733645929448316632, guid: b40db24374c0a5849a471933f427c13d, type: 3}
+      propertyPath: m_Antialiasing
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 733645929448316632, guid: b40db24374c0a5849a471933f427c13d, type: 3}
+      propertyPath: m_RenderPostProcessing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 733645929448316632, guid: b40db24374c0a5849a471933f427c13d, type: 3}
       propertyPath: m_RequiresOpaqueTextureOption
       value: 2
       objectReference: {fileID: 0}
